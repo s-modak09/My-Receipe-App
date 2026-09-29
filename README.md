@@ -61,27 +61,6 @@ Open the release page and download the required APK from the **Assets** section.
 
 ---
 
-## Screenshots
-
-### Recipe Categories
-
-The home screen displays available recipe categories with corresponding food images.
-
-![Recipe Categories](screenshots/categories.png)
-
-### Category Recipes
-
-Select a category to explore recipes belonging to that category.
-
-![Category Recipes](screenshots/category-recipes.png)
-
-### Recipe Details
-
-View detailed information about the selected recipe.
-
-![Recipe Details](screenshots/recipe-details.png)
-
----
 
 ## Tech Stack
 
